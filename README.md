@@ -3,12 +3,12 @@ The counter has paused, awaiting additional remediation measures, as a result of
 
 <div align="center"><img src="static/img/hertaa_github.gif"></div>
 
-<div align="center"><p>The website for Herta, the cutest genius Honkai: Star Rail character out there!</p>
+<div align="center"><p>The website for yyopq, the cutest genius Honkai: Star Rail character out there!</p>
 <p>献给崩坏：星穹铁道最可爱的天才黑塔酱</p></div>
 
   [![Chat on Discord](https://img.shields.io/badge/chat-discord-blue?style=flat&logo=discord)](https://discord.gg/yzkEz6xxdM)
 
-# Herta Kuru | 黑塔转圈圈 | ヘルタクルへ
+# yyiopq Kuru | 黑塔转圈圈 | ヘルタクルへ  原作者并非本人
 [Home Page | 主页 | ホーム ページ](https://duiqt.github.io/herta_kuru)
 
 Herta GIF and art made by | 黑塔 GIF 绘画者 : [@Seseren_kr](https://twitter.com/Seseren_kr) 
